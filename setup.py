@@ -24,7 +24,7 @@ setup(
     package_dir={'seq_interval': 'seq_interval'},
     install_requires=requires,
     license=about['__license__'],
-    classifiers=(
+    classifiers=[
         'Natural Language :: English',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
@@ -34,6 +34,6 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: Implementation :: CPython',
-    )   
+    ]
 )
 
