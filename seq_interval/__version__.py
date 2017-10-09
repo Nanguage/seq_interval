@@ -1,0 +1,8 @@
+__title__ = 'seq_interval'
+__version__ = '0.0.1'
+__author__ = 'Nanguage'
+__author_email__ = 'nanguage@yahoo.com'
+__url__ = 'https://github.com/Nanguage/seq_interval'
+__license__ = 'MIT License'
+__description__ = 'Interval operations for sequencing data.'
+__keywords__ = 'interval'
