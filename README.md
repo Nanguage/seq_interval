@@ -5,12 +5,6 @@ Interval operations for sequencing data.
 
 Project status: under development
 
-# Installation
-
-```
-pip install seq_interval
-```
-
 # usage
 
 ## Interval
